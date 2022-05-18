@@ -25,6 +25,7 @@ The code in this repository was developed and tested on a desktop PC running Ubu
 - StellarNet [BlueWave](https://www.stellarnet.us/spectrometers/blue-wave-miniature-spectrometers/) Mini Spectrometer (350-1150 nm specification)
 - 7-around-1 fiber low OH [fiber optic cable](https://www.stellarnet.us/spectrometers-accessories/fiber-optic-cables/) in Y-configuration (R600-8-VisNIR)
 - Quartz Tungsten Halogen calibrated [light source](https://www.stellarnet.us/light-sources/visible-light-sources/)
+- Scene [work lights](https://www.amazon.com/Designers-Edge-L860-Portable-250-Watt/dp/B002OLBAHU)
 ### Imaging
 - DEPSTECH [USB Endoscope Camera](https://www.amazon.com/DEPSTECH-Ultra-Thin-Inspection-Semi-Rigid-Adpater-16-5ft/dp/B0836XWPJH/ref=sr_1_3?keywords=usb+endoscope+camera+with+light&qid=1652824249&sprefix=usb+en%2Caps%2C101&sr=8-3)
 - Microsoft [Azure Kinetc](https://www.microsoft.com/en-us/d/azure-kinect-dk/8pp5vxmd9nhq?activetab=pivot:overviewtab)
