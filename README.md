@@ -1,5 +1,4 @@
 # HyperBot
-Main Repository for submission "HYPERBOT – ROBOTIC WORKCELL DESIGN FOR JOINT ACQUISITION OF SCENE AND GRASP SPECTRAL DATA" to WHISPERS 2022
 
 Author: Nathaniel Hanson
 Contact: hanson.n at northeastern dot edu
